@@ -1,5 +1,3 @@
-[![JHParker7's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHParker7)](https://github.com/anuraghazra/github-readme-stats)
-
 ## my websites
 - My website - https://jhparker7.github.io/
 - My old website - https://jhparker7.github.io/old
