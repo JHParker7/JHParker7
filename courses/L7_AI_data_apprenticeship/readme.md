@@ -2,7 +2,7 @@
 ## Background
 due to previous experience with AI and Python at 18 a started a masters level Apprenticeship degree after completing 3 months of the L4 version in a day. I completed it in 2023 at 20
 ## Diploma
-![L7_Degree](L7_Degree.png)
+![L7_Degree](l7_degree.jpg)
 ## badges from course
 - https://www.credential.net/fa0cdaea-f0b0-4734-ae44-d9ce210218fc - L7 AI & Data Science Apprenticeship - Intermediate Machine Learning
 - ![Intermediate Machine Learning](80d9954b-66f1-4e92-9a4b-a0a7e434fa3c.png)
